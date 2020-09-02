@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/eightDictionaryApp/static/js/main.43d45236.chunk.js",
+    "main.js.map": "/eightDictionaryApp/static/js/main.43d45236.chunk.js.map",
+    "runtime-main.js": "/eightDictionaryApp/static/js/runtime-main.42207a34.js",
+    "runtime-main.js.map": "/eightDictionaryApp/static/js/runtime-main.42207a34.js.map",
+    "static/js/2.1df34c3b.chunk.js": "/eightDictionaryApp/static/js/2.1df34c3b.chunk.js",
+    "static/js/2.1df34c3b.chunk.js.map": "/eightDictionaryApp/static/js/2.1df34c3b.chunk.js.map",
+    "index.html": "/eightDictionaryApp/index.html",
+    "precache-manifest.d2aeabaf38808c0480bcbffb2e367a66.js": "/eightDictionaryApp/precache-manifest.d2aeabaf38808c0480bcbffb2e367a66.js",
+    "service-worker.js": "/eightDictionaryApp/service-worker.js",
+    "static/js/2.1df34c3b.chunk.js.LICENSE.txt": "/eightDictionaryApp/static/js/2.1df34c3b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/eightDictionaryApp/static/media/logo.ceef5787.png",
+    "static/media/search.png": "/eightDictionaryApp/static/media/search.ce030b85.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42207a34.js",
+    "static/js/2.1df34c3b.chunk.js",
+    "static/js/main.43d45236.chunk.js"
+  ]
+}

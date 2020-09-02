@@ -1,0 +1,113 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: arial, helvetica, sans-serif;
+  min-height: 100%;
+  min-width: 100%;
+  line-height: 1.5em;
+  min-width: 800px;
+}
+
+
+.AddWord {
+  background: #314089;
+display: block;
+}
+
+.logoImage {
+  hover: pointer;
+  width: 100px;
+
+}
+
+.searchForm {
+
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 1);
+  margin: 30px 250px;
+  vertical-align: middle;
+  width: 50%;
+  height: 56px;
+  position: relative;
+  border: none;
+  line-height: 1.5em;
+  text-align: center;
+
+  /* display: flex; */
+  display: inline-block;
+}
+
+.submitButton {
+  vertical-align: middle;
+    outline: none;
+    float: right;
+    padding: 12px;
+    font-size: 19.2px;
+    margin: 2px;
+    border: none;
+    background: #fff;
+    cursor: pointer;
+
+}
+
+
+.searchInput {
+
+  flex: 1;
+  width: 80%;
+  padding: 1em 0em 1em 0.5em;
+  /* text-align: start; */
+  outline: none;
+  border: none;
+  font-size: 17px;
+  vertical-align: middle;
+  font-weight: bold;
+}
+
+.searchInputContainer {
+  overflow: hidden;
+  vertical-align: middle;
+  /* display: block; */
+}
+
+.contentBody {
+  min-height: 700px;
+  height: 100%;
+
+}
+
+.SearchResults {
+  list-style: none;
+}
+
+.errorStyle {
+  text-align: center;
+}
+
+.wordCategory {
+  color: #F2D600;
+}
+
+.illustration {
+  font-weight: bold;
+}
+
+hr {
+  width: 100%;
+  padding-right: 30px;
+}
+
+.ShowTime {
+  text-align: center;
+  background-color: #314089;
+  color: white;
+  padding: 1px;
+}
+
+.styleTime {
+  color: #F2D600;
+}
+
+.Footer {
+  text-align: center;
+}
